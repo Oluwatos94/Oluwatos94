@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 I am a member of ALX SE community.
 - ⚡ Fun fact: ...
 - LANGUAGE AND TOOLS:
-![javascript-logo](https://user-images.githubusercontent.com/111003311/221978945-cfb7db97-2479-42dc-98cf-f1ea1d48bd76.png)
 
 -->
