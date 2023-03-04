@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/BNbm4jKFVC31dYUaoh/giphy.gif" width="100"/>
+</div>
+
+
+
 ### Hi there 👋, I am OLUWATOSIN OMOAKIN.
 
 <!--
