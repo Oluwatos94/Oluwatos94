@@ -24,12 +24,12 @@
 
 Here are some ideas to get you started:-->
 <div>
-- 🔭 I’m currently working on a project.
-- 🌱 I’m also a backend developer trainee at Jagaad.
-- 👯 I’m looking forword working on a project with an app developer.
-- 💬 Ask me about anything 
-- 📫 How to reach me: akinbowat@gmail.com
-- 😄 I am a member of ALX SE community.
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a project.<br>
+- 🌱 I’m also a backend developer trainee at Jagaad.<br>
+- 👯 I’m looking forword working on a project with an app developer.<br>
+- 💬 Ask me about anything <br>
+- 📫 How to reach me: akinbowat@gmail.com <br>
+- 😄 I am a member of ALX SE community.<br>
+- ⚡ Fun fact: ... <br>
 - LANGUAGE AND TOOLS: PHP, MYSQL, HTML, CSS, JAVASCRIPT, PYTHON, GIT, 
 </div>
