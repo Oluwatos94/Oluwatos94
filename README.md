@@ -20,18 +20,16 @@
 
 
 
-<!-- **Oluwatos94/Oluwatos94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<div>
-Here are some ideas to get you started:
+<!-- **Oluwatos94/Oluwatos94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on a project with python, html, css, mysql.
-- 🌱 I’m also learning UI/UX design.
+Here are some ideas to get you started:-->
+<div>
+- 🔭 I’m currently working on a project.
+- 🌱 I’m also a backend developer trainee at Jagaad.
 - 👯 I’m looking forword working on a project with an app developer.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
+- 💬 Ask me about anything 
 - 📫 How to reach me: akinbowat@gmail.com
 - 😄 I am a member of ALX SE community.
 - ⚡ Fun fact: ...
-- LANGUAGE AND TOOLS:
-
+- LANGUAGE AND TOOLS: PHP, MYSQL, HTML, CSS, JAVASCRIPT, PYTHON, GIT, 
 </div>
