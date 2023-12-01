@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwatos94" alt="oluwatos94" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/i_fycode" target="blank"><img src="https://img.shields.io/twitter/follow/i_fycode?logo=twitter&style=for-the-badge" alt="i_fycode" /></a> </p>
+<p align="left"> <a href="https://twitter.com/i_fycode" target="blank"><img src="https://img.shields.io/twitter/follow/i_fycode?logo=twitter&style=for-the-badge" alt="I_fycode." /></a> </p>
 
 - 🌱 I’m currently learning **Symfony**
 
