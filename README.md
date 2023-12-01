@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwatos94" alt="oluwatos94" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/siskysunny" target="blank"><img src="https://img.shields.io/twitter/follow/siskysunny?logo=twitter&style=for-the-badge" alt="I_fycode." /></a> </p>
+<p align="left"> <a href="https://twitter.com/siskysunny" target="blank"><img src="https://img.shields.io/twitter/follow/siskysunny?logo=twitter&style=for-the-badge" alt="siskysunny" /></a> </p>
 
 - 🌱 I’m currently learning **Symfony**
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/i_fycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_fycode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tosin akinbowa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tosin akinbowa" height="30" width="40" /></a>
+<a href="https://twitter.com/siskysunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siskysunny" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tosin-akinbowa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tosin-akinbowa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
