@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/siskysunny" target="blank"><img src="https://img.shields.io/twitter/follow/siskysunny?logo=twitter&style=for-the-badge" alt="siskysunny" /></a> </p>
 
-- 🌱 Contributed to open source projects
+- 🌱 Contributed to open-source projects
 
 - 💬 Ask me about **PHP, Laravel and Symfony**
 
