@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akinbowat@gmail.com**
 
-- ⚡ Fun fact **If I had my way, I would have been a footballer.**
+- ⚡ Fun fact **If I had my way, I would have been a footballer...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
