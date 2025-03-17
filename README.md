@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/siskysunny" target="blank"><img src="https://img.shields.io/twitter/follow/siskysunny?logo=twitter&style=for-the-badge" alt="siskysunny" /></a> </p>
 
-- 🌱 I’m currently learning **Rust and Cairo a web3 programming Language**
+- 🌱 I’m currently learning **Rust and Cairo**
 
 - 💬 Ask me about **web development || Bloackchain || Decentralize App and more**
 
