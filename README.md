@@ -1,4 +1,3 @@
-eadme · MD
 <h1 align="center">Hi 👋, I'm Tosin Akinbowa</h1>
 <h3 align="center">A passionate Software Developer and Web3 Enthusiast, from Nigeria</h3>
  
