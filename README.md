@@ -12,8 +12,8 @@
 </p>
 ---
  
-- 🚀 Currently building **Shopping Complex** — a GPS-powered, WhatsApp-native local commerce platform for Nigeria
-- 🌱 Currently learning **Rust and Cairo**
+- 🚀 Currently building **Shopping Complex** — a GPS-powered, WhatsApp-native local commerce platform
+- 🌱 Currently learning **Azure**
 - 💬 Ask me about **web development, blockchain, and decentralized apps**
 - 📫 Reach me at **akinbowat@gmail.com**
 - ⚡ Fun fact: **If I had my way, I would have been a footballer...**
